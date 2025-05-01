@@ -15,8 +15,8 @@
         "slide-1": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Plan_de_travail_11325_CR7.png",
-            "mobile_image": "shopify://shop_images/mbappe_aceuille_halofoot_v_final.jpg",
+            "image": "shopify://shop_images/mbappe_aceuille_halofoot_v_final.jpg",
+            "mobile_image": "shopify://shop_images/desirer_doue_acueille_halofoot.jpg",
             "content_max_width": 780,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
