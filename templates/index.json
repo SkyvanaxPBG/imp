@@ -43,9 +43,9 @@
             "mobile_text_position": "place-self-end-start text-start",
             "desktop_text_position": "sm:place-self-end-start sm:text-start",
             "subheading": "",
-            "title": "",
+            "title": "le style commence au coup d'envoie !!!",
             "heading_tag": "h6",
-            "button_text": "Voir maillots",
+            "button_text": "découvre les maillots",
             "button_link": "",
             "text_color": "#ffffff",
             "button_background": "#ffffff",
@@ -170,75 +170,6 @@
         "text_gradient": ""
       }
     },
-    "collection_list_DYmAxp": {
-      "type": "collection-list",
-      "blocks": {
-        "collection_VgErLh": {
-          "type": "collection",
-          "settings": {
-            "collection": "",
-            "subheading": "",
-            "title": "",
-            "url": "",
-            "heading_tag": "h2",
-            "text_position": "place-self-center text-center",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 30
-          }
-        },
-        "collection_EbJGAw": {
-          "type": "collection",
-          "settings": {
-            "collection": "",
-            "subheading": "",
-            "title": "",
-            "url": "",
-            "heading_tag": "h2",
-            "text_position": "place-self-center text-center",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 30
-          }
-        },
-        "collection_4k9bKJ": {
-          "type": "collection",
-          "settings": {
-            "collection": "",
-            "subheading": "",
-            "title": "",
-            "url": "",
-            "heading_tag": "h2",
-            "text_position": "place-self-center text-center",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 30
-          }
-        }
-      },
-      "block_order": [
-        "collection_VgErLh",
-        "collection_EbJGAw",
-        "collection_4k9bKJ"
-      ],
-      "name": "Collection list",
-      "settings": {
-        "full_width": true,
-        "stack_collections": true,
-        "collections_per_row": 3,
-        "show_progress_bar": false,
-        "subheading": "",
-        "title": "Collection list",
-        "content": "",
-        "link_url": "",
-        "link_text": "",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": ""
-      }
-    },
     "featured-collection": {
       "type": "featured-collection",
       "settings": {
@@ -317,7 +248,6 @@
     "image-with-text-overlay",
     "featured_collection_H8LbH8",
     "scrolling-text",
-    "collection_list_DYmAxp",
     "featured-collection",
     "impact-text",
     "media-grid",
