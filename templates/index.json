@@ -98,22 +98,23 @@
         "product_card_text_color": ""
       }
     },
-    "featured_collection_tLVTmz": {
+    "featured_collection_BcxfG6": {
       "type": "featured-collection",
+      "name": "Featured collection",
       "settings": {
         "collection": "",
         "products": [],
         "full_width": true,
-        "stack_products": false,
+        "stack_products": true,
         "show_progress_bar": false,
         "products_count": 6,
-        "products_per_row_mobile": "2",
-        "products_per_row_desktop": 4,
+        "products_per_row_mobile": "1",
+        "products_per_row_desktop": 3,
         "subheading": "",
-        "title": "Sélection pour l'été",
+        "title": "Featured collection",
         "content": "",
-        "link_url": "shopify://collections/meme-les-petits-heros-meritent-leur-maillot",
-        "link_text": "Voir  tout",
+        "link_url": "",
+        "link_text": "View all",
         "background": "",
         "background_gradient": "",
         "text_color": "",
@@ -223,7 +224,7 @@
   "order": [
     "slideshow",
     "featured_collection_nQMHrd",
-    "featured_collection_tLVTmz",
+    "featured_collection_BcxfG6",
     "scrolling-text",
     "featured-collection",
     "impact-text",
