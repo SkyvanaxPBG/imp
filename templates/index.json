@@ -87,7 +87,7 @@
         "subheading": "",
         "title": "Sélection pour l'été",
         "content": "",
-        "link_url": "shopify://collections/meme-les-petits-heros-meritent-leur-maillot",
+        "link_url": "shopify://collections/maillots-ete🌞-1",
         "link_text": "Voir  tout",
         "background": "",
         "background_gradient": "",
@@ -96,6 +96,33 @@
         "heading_gradient": "",
         "product_card_background": "",
         "product_card_text_color": ""
+      }
+    },
+    "image-with-text-overlay": {
+      "type": "image-with-text-overlay",
+      "blocks": {
+        "1664424230c4756b0e-0": {
+          "type": "subheading",
+          "settings": {
+            "text": ""
+          }
+        }
+      },
+      "block_order": [
+        "1664424230c4756b0e-0"
+      ],
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/DES_FLOCAGES_A_COUPER_LE_SOUFLLE.png",
+        "mobile_image": "shopify://shop_images/psg_psd_aceuille_allofoot.png",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
       }
     },
     "featured_collection_H8LbH8": {
@@ -255,33 +282,6 @@
         "button_text_color": ""
       }
     },
-    "image-with-text-overlay": {
-      "type": "image-with-text-overlay",
-      "blocks": {
-        "1664424230c4756b0e-0": {
-          "type": "subheading",
-          "settings": {
-            "text": ""
-          }
-        }
-      },
-      "block_order": [
-        "1664424230c4756b0e-0"
-      ],
-      "settings": {
-        "full_width": true,
-        "allow_transparent_header": false,
-        "enable_parallax": false,
-        "image_size": "auto",
-        "image": "shopify://shop_images/DES_FLOCAGES_A_COUPER_LE_SOUFLLE.png",
-        "mobile_image": "shopify://shop_images/psg_psd_aceuille_allofoot.png",
-        "mobile_text_position": "place-self-center text-center",
-        "desktop_text_position": "sm:place-self-center sm:text-center",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 30
-      }
-    },
     "media-grid": {
       "type": "media-grid",
       "settings": {
@@ -314,12 +314,12 @@
   "order": [
     "slideshow",
     "featured_collection_nQMHrd",
+    "image-with-text-overlay",
     "featured_collection_H8LbH8",
     "scrolling-text",
     "collection_list_DYmAxp",
     "featured-collection",
     "impact-text",
-    "image-with-text-overlay",
     "media-grid",
     "newsletter_hz9rMY"
   ]
