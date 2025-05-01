@@ -213,17 +213,6 @@
         "button_text_color": ""
       }
     },
-    "media-grid": {
-      "type": "media-grid",
-      "settings": {
-        "full_width": true,
-        "reduce_width": false,
-        "desktop_row_height": 290,
-        "mobile_row_height": 150,
-        "background": "",
-        "background_gradient": ""
-      }
-    },
     "newsletter_hz9rMY": {
       "type": "newsletter",
       "name": "Newsletter",
@@ -250,7 +239,6 @@
     "scrolling-text",
     "featured-collection",
     "impact-text",
-    "media-grid",
     "newsletter_hz9rMY"
   ]
 }
