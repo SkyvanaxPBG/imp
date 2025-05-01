@@ -72,19 +72,6 @@
     "image-link-blocks": {
       "type": "image-link-blocks",
       "blocks": {
-        "1664424046b00c932c-0": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/edef7ff8.jpg",
-            "stretch_image": true,
-            "link_text": "",
-            "link_url": "",
-            "background": "",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        },
         "1664424046b00c932c-1": {
           "type": "item",
           "settings": {
@@ -132,22 +119,34 @@
             "overlay_color": "#000000",
             "overlay_opacity": 0
           }
+        },
+        "item_yTnqQM": {
+          "type": "item",
+          "settings": {
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
         }
       },
       "block_order": [
-        "1664424046b00c932c-0",
         "1664424046b00c932c-1",
         "1664424046b00c932c-2",
         "1664424046b00c932c-3",
-        "e4a0ef18-1856-4ddd-83d8-871a60d7acac"
+        "e4a0ef18-1856-4ddd-83d8-871a60d7acac",
+        "item_yTnqQM"
       ],
       "settings": {
         "full_width": false,
         "block_size": "medium",
         "subheading": "",
-        "title": "",
+        "title": "Notre Sélection pour l'été",
         "content": "",
-        "link_url": "",
+        "link_url": "shopify://collections/maillots-ete🌞-1",
         "link_text": "",
         "background": "",
         "background_gradient": "",
