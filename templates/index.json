@@ -98,6 +98,61 @@
         "product_card_text_color": ""
       }
     },
+    "featured_collection_jPQTzD": {
+      "type": "featured-collection",
+      "settings": {
+        "collection": "",
+        "products": [
+          "maillot-de-lespagne-feminin-beige-2025",
+          "maillot-de-lecosse-feminin-rose-2025"
+        ],
+        "full_width": true,
+        "stack_products": false,
+        "show_progress_bar": false,
+        "products_count": 6,
+        "products_per_row_mobile": "2",
+        "products_per_row_desktop": 4,
+        "subheading": "",
+        "title": "Vos coup de coeur",
+        "content": "",
+        "link_url": "shopify://collections/maillots-ete🌞-1",
+        "link_text": "Voir  tout",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "product_card_background": "",
+        "product_card_text_color": ""
+      }
+    },
+    "image-with-text-overlay": {
+      "type": "image-with-text-overlay",
+      "blocks": {
+        "1664424230c4756b0e-0": {
+          "type": "subheading",
+          "settings": {
+            "text": ""
+          }
+        }
+      },
+      "block_order": [
+        "1664424230c4756b0e-0"
+      ],
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/DES_FLOCAGES_A_COUPER_LE_SOUFLLE.png",
+        "mobile_image": "shopify://shop_images/psg_psd_aceuille_allofoot.png",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
+      }
+    },
     "image_link_blocks_LBiNRU": {
       "type": "image-link-blocks",
       "blocks": {
@@ -190,33 +245,6 @@
         "heading_gradient": ""
       }
     },
-    "image-with-text-overlay": {
-      "type": "image-with-text-overlay",
-      "blocks": {
-        "1664424230c4756b0e-0": {
-          "type": "subheading",
-          "settings": {
-            "text": ""
-          }
-        }
-      },
-      "block_order": [
-        "1664424230c4756b0e-0"
-      ],
-      "settings": {
-        "full_width": true,
-        "allow_transparent_header": false,
-        "enable_parallax": false,
-        "image_size": "auto",
-        "image": "shopify://shop_images/DES_FLOCAGES_A_COUPER_LE_SOUFLLE.png",
-        "mobile_image": "shopify://shop_images/psg_psd_aceuille_allofoot.png",
-        "mobile_text_position": "place-self-center text-center",
-        "desktop_text_position": "sm:place-self-center sm:text-center",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 30
-      }
-    },
     "scrolling-text": {
       "type": "scrolling-text",
       "settings": {
@@ -296,8 +324,9 @@
   "order": [
     "slideshow",
     "featured_collection_nQMHrd",
-    "image_link_blocks_LBiNRU",
+    "featured_collection_jPQTzD",
     "image-with-text-overlay",
+    "image_link_blocks_LBiNRU",
     "scrolling-text",
     "featured-collection",
     "impact-text",
