@@ -17,13 +17,21 @@
         "message": {
           "type": "message",
           "settings": {
-            "text": "Code -10%",
+            "text": "2 maillot acheter 1 maillot offert 💥",
+            "url": ""
+          }
+        },
+        "message_PiFgfb": {
+          "type": "message",
+          "settings": {
+            "text": "-10%  sur votre première commande avec le code LDC10  🔥",
             "url": ""
           }
         }
       },
       "block_order": [
-        "message"
+        "message",
+        "message_PiFgfb"
       ],
       "settings": {
         "enable_sticky": false,
