@@ -98,29 +98,86 @@
         "product_card_text_color": ""
       }
     },
-    "blog_posts_P3bCwn": {
-      "type": "blog-posts",
+    "image_link_blocks_LBiNRU": {
+      "type": "image-link-blocks",
       "blocks": {
-        "article_Ugizcy": {
-          "type": "article",
+        "item_7FcD9f": {
+          "type": "item",
           "settings": {
-            "article": "",
+            "image": "shopify://shop_images/Serie-A-Logo.png",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "shopify://collections/serie-a",
             "background": "",
-            "text_color": ""
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_Hh7Kzc": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/OIP_27.jpg",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "shopify://collections/premier-league",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_Ph7JwX": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Bundesliga-logo_svg.png",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "shopify://collections/bundesliga",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_wLwNeM": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/LFP_REVEAL_WEB_LFP_MOBILE_1280x1600_993ede15db.webp",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "shopify://collections/lige-1",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_TRjVRH": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/OIP_30.jpg",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "shopify://collections/laliga",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
           }
         }
       },
       "block_order": [
-        "article_Ugizcy"
+        "item_7FcD9f",
+        "item_Hh7Kzc",
+        "item_Ph7JwX",
+        "item_wLwNeM",
+        "item_TRjVRH"
       ],
-      "name": "Featured blog post",
+      "name": "Image link blocks",
       "settings": {
-        "full_width": true,
-        "show_excerpt": true,
-        "show_date": true,
-        "show_author": false,
-        "show_comments_count": false,
-        "show_category": true,
+        "full_width": false,
+        "block_size": "medium",
         "subheading": "",
         "title": "",
         "content": "",
@@ -239,7 +296,7 @@
   "order": [
     "slideshow",
     "featured_collection_nQMHrd",
-    "blog_posts_P3bCwn",
+    "image_link_blocks_LBiNRU",
     "image-with-text-overlay",
     "scrolling-text",
     "featured-collection",
