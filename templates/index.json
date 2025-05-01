@@ -98,6 +98,36 @@
         "product_card_text_color": ""
       }
     },
+    "featured_collection_H8LbH8": {
+      "type": "featured-collection",
+      "settings": {
+        "collection": "maillots-ete🌞-1",
+        "products": [
+          "maillot-de-lecosse-feminin-rose-2025",
+          "maillot-de-lespagne-feminin-beige-2025",
+          "maillot-arsenal-rose",
+          "maillot-24-25-real-madrid-special-rose"
+        ],
+        "full_width": true,
+        "stack_products": false,
+        "show_progress_bar": false,
+        "products_count": 6,
+        "products_per_row_mobile": "2",
+        "products_per_row_desktop": 4,
+        "subheading": "",
+        "title": "Vos Coups de Coeur",
+        "content": "",
+        "link_url": "shopify://collections/meme-les-petits-heros-meritent-leur-maillot",
+        "link_text": "Voir  tout",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "product_card_background": "",
+        "product_card_text_color": ""
+      }
+    },
     "scrolling-text": {
       "type": "scrolling-text",
       "settings": {
@@ -262,16 +292,35 @@
         "background": "",
         "background_gradient": ""
       }
+    },
+    "newsletter_hz9rMY": {
+      "type": "newsletter",
+      "name": "Newsletter",
+      "settings": {
+        "full_width": true,
+        "show_icon": true,
+        "title": "Newsletter",
+        "content": "<p>Write something about what your customers will receive by subscribing to your newsletter.</p>",
+        "button_text": "Subscribe",
+        "subtext": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "button_background": "",
+        "button_text_color": ""
+      }
     }
   },
   "order": [
     "slideshow",
     "featured_collection_nQMHrd",
+    "featured_collection_H8LbH8",
     "scrolling-text",
     "collection_list_DYmAxp",
     "featured-collection",
     "impact-text",
     "image-with-text-overlay",
-    "media-grid"
+    "media-grid",
+    "newsletter_hz9rMY"
   ]
 }
