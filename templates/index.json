@@ -141,26 +141,41 @@
         "product_card_text_color": ""
       }
     },
-    "image-with-text-overlay": {
+    "image_with_text_overlay_PiaXVw": {
       "type": "image-with-text-overlay",
       "blocks": {
-        "1664424230c4756b0e-0": {
+        "subheading_yf9gnz": {
           "type": "subheading",
           "settings": {
             "text": ""
           }
+        },
+        "heading_jUY9ta": {
+          "type": "heading",
+          "settings": {
+            "text": "des flocages à couper le souffle",
+            "heading_tag": "h3"
+          }
+        },
+        "richtext_MD4Jc8": {
+          "type": "richtext",
+          "settings": {
+            "content": ""
+          }
         }
       },
       "block_order": [
-        "1664424230c4756b0e-0"
+        "subheading_yf9gnz",
+        "heading_jUY9ta",
+        "richtext_MD4Jc8"
       ],
+      "name": "Image with text overlay",
       "settings": {
         "full_width": true,
         "allow_transparent_header": false,
         "enable_parallax": false,
-        "image_size": "md",
+        "image_size": "sm",
         "image": "shopify://shop_images/Plan_de_travail_11325_CR7.png",
-        "mobile_image": "shopify://shop_images/psg_psd_aceuille_allofoot.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -341,7 +356,7 @@
     "slideshow",
     "featured_collection_nQMHrd",
     "featured_collection_jPQTzD",
-    "image-with-text-overlay",
+    "image_with_text_overlay_PiaXVw",
     "image_link_blocks_LBiNRU",
     "scrolling-text",
     "featured-collection",
