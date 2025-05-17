@@ -24,7 +24,7 @@
         "message_PiFgfb": {
           "type": "message",
           "settings": {
-            "text": "nouveaux maillots !!!",
+            "text": "Nouveaux maillots !!!",
             "url": ""
           }
         }
@@ -35,7 +35,7 @@
       ],
       "settings": {
         "enable_sticky": false,
-        "text_size": "text-xs",
+        "text_size": "text-base",
         "navigation_mode": "arrows",
         "scrolling_speed": 10,
         "background": "#1a1a1a",
