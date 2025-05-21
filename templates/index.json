@@ -111,6 +111,31 @@
         "product_card_text_color": ""
       }
     },
+    "featured_collection_wPHqVb": {
+      "type": "featured-collection",
+      "settings": {
+        "collection": "stussy-corteiz",
+        "products": [],
+        "full_width": true,
+        "stack_products": false,
+        "show_progress_bar": false,
+        "products_count": 6,
+        "products_per_row_mobile": "2",
+        "products_per_row_desktop": 4,
+        "subheading": "",
+        "title": "Sélection pour l'été",
+        "content": "",
+        "link_url": "shopify://collections/maillots-ete🌞-1",
+        "link_text": "Voir  tout",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "product_card_background": "",
+        "product_card_text_color": ""
+      }
+    },
     "featured_collection_jPQTzD": {
       "type": "featured-collection",
       "settings": {
@@ -355,6 +380,7 @@
     "custom_liquid_qEEMJE",
     "slideshow",
     "featured_collection_nQMHrd",
+    "featured_collection_wPHqVb",
     "featured_collection_jPQTzD",
     "image_with_text_overlay_PiaXVw",
     "image_link_blocks_LBiNRU",
