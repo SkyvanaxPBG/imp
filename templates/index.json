@@ -115,7 +115,17 @@
       "type": "featured-collection",
       "settings": {
         "collection": "stussy-corteiz",
-        "products": [],
+        "products": [
+          "brazil-x-corteiz-limited-edition",
+          "2002-brazil-away-x-stussy-limited",
+          "2006-argentina-x-corteiz-special-edition-shirt",
+          "1986-argentina-x-stussy-retro-kit",
+          "brazil-x-corteiz-limited-black-edition-jersey",
+          "columbia-x-corteiz-special-edition-jersey",
+          "chelsea-x-corteiz-special-limited-edition",
+          "2024-2025-germany-x-corteiz-limited-edition-jersey",
+          "23-24-germany-x-stussy-limited-eidition"
+        ],
         "full_width": true,
         "stack_products": false,
         "show_progress_bar": false,
