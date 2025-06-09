@@ -336,6 +336,32 @@
         "text_gradient": ""
       }
     },
+    "featured_collection_N7iyaN": {
+      "type": "featured-collection",
+      "name": "Featured collection",
+      "settings": {
+        "collection": "",
+        "products": [],
+        "full_width": true,
+        "stack_products": false,
+        "show_progress_bar": false,
+        "products_count": 5,
+        "products_per_row_mobile": "1",
+        "products_per_row_desktop": 3,
+        "subheading": "",
+        "title": "Nos Ensembles pour l'été",
+        "content": "",
+        "link_url": "",
+        "link_text": "View all",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "product_card_background": "",
+        "product_card_text_color": ""
+      }
+    },
     "featured-collection": {
       "type": "featured-collection",
       "settings": {
@@ -406,6 +432,7 @@
     "image_with_text_overlay_PiaXVw",
     "image_link_blocks_LBiNRU",
     "scrolling-text",
+    "featured_collection_N7iyaN",
     "featured-collection",
     "impact-text",
     "newsletter_hz9rMY"
